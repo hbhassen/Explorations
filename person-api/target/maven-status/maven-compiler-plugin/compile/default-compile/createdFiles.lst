@@ -1,0 +1,7 @@
+com\example\personapi\PersonApiApplication.class
+com\example\personapi\controller\PersonneController.class
+com\example\personapi\repository\PersonneRepository.class
+com\example\personapi\service\PersonneService.class
+com\example\personapi\dto\PersonneDto.class
+com\example\personapi\spec\PersonneSpecifications.class
+com\example\personapi\entity\Personne.class
